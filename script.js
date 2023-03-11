@@ -1,6 +1,6 @@
-a=[];
-a[0]="umesh";
-a[1]=2;
-a[2]=true;
-a[3]="chandra";
-a[4]=4;
+yourArray=[];
+yourArray[0]="umesh";
+yourArray[1]=2;
+yourArray[2]=true;
+yourArray[3]="chandra";
+yourArray[4]=4;
